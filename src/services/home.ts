@@ -1,5 +1,5 @@
 export default class HomeService {
-  public static get () {
+  get () {
     return 'Home test get'
   }
 }
