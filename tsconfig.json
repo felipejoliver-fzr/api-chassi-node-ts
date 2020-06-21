@@ -15,5 +15,8 @@
     "paths": {
       "@services/*": ["./src/services/*"]
     }
-  }
+  },
+  "include": [
+    "src/**/*"
+  ]
 }
